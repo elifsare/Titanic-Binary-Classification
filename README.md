@@ -1,4 +1,4 @@
-# :ship:	Data Preprocess
+# :symbols:		Data Preprocess
 - NaN values have been replaced by the median. 
 - Sex, cabin names, names of embarkation ports have been replaced with integers.
 
@@ -14,3 +14,6 @@ Binary classification is done in the model, so binary entropy is used in the los
 
 ### Pylot Results
 <img src="https://github.com/elifsare/Titanic-Binary-Classification/blob/main/Accuracy_loss.png" />
+
+# :ship: Dataset
+[https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data](https://www.kaggle.com/competitions/titanic/data)
