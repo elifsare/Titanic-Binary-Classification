@@ -1,8 +1,8 @@
-# Data Preprocess
+# :ship:	Data Preprocess
 - NaN values have been replaced by the median. 
 - Sex, cabin names, names of embarkation ports have been replaced with integers.
 
-# Desciription Of Model
+# :chart_with_upwards_trend: Desciription Of Model
 ### Why We Use Sequel Model?
 This model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor. That's why the Sequel Model is used.
 
