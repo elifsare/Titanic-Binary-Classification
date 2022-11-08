@@ -16,4 +16,4 @@ Binary classification is done in the model, so binary entropy is used in the los
 <img src="https://github.com/elifsare/Titanic-Binary-Classification/blob/main/Accuracy_loss.png" />
 
 # :ship: Dataset
-[https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data](https://www.kaggle.com/competitions/titanic/data)
+](https://www.kaggle.com/competitions/titanic/data)
